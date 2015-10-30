@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<continents>
+	<continent id="1" code="na" name="North America" amount="37" />
+	<continent id="2" code="eu" name="Europe" amount="50" />
+	<continent id="3" code="as" name="Asia" amount="51" />
+	<continent id="4" code="sa" name="South America" amount="14" />
+	<continent id="5" code="oc" name="Oceania" amount="25" />
+	<continent id="6" code="af" name="Africa" amount="53" />
+	<continent id="7" code="an" name="Antarctica" amount="0" />
+</continents>

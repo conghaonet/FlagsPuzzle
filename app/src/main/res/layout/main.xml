@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/res_bg_main"
+	>
+	<LinearLayout 
+	    android:id="@+id/layoutA"
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:weightSum="3"
+		android:layout_marginBottom="20dp"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		>
+		<ImageButton 
+		    android:id="@+id/mainListBtn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:background="#00000000"
+			android:src="@drawable/btn_flagslist"
+			/>
+		<ImageButton 
+		    android:id="@+id/mainMoreBtn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:background="#00000000"
+			android:src="@drawable/btn_moregames"
+			/>
+	</LinearLayout>
+	<LinearLayout
+	    android:id="@+id/layoutB"
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:weightSum="3"
+		android:layout_marginBottom="10dp"
+		android:layout_above="@id/layoutA"
+		android:layout_centerHorizontal="true"
+		>
+		<ImageButton 
+		    android:id="@+id/mainFreePlayBtn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:background="#00000000"
+			android:src="@drawable/btn_freeplay"
+			/>
+		<ImageButton 
+		    android:id="@+id/mainChallengeBtn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:background="#00000000"
+			android:src="@drawable/btn_challenge"
+			
+			/>
+	</LinearLayout>
+	<ImageButton
+		    android:id="@+id/mainSettingsBtn"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:src="@drawable/btn_settings"
+	     	android:layout_above="@id/layoutB"
+	     	android:layout_alignLeft="@id/layoutB"
+	     	android:background="#00000000"
+	     	android:paddingLeft="20dip"
+	     	android:paddingTop="20dip"
+	     	android:paddingRight="20dip"
+	     	android:paddingBottom="10dip"
+	    />
+</RelativeLayout>
+<!-- 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="bottom|center_horizontal"
+	android:background="@drawable/res_bg_main"
+	>
+<LinearLayout
+	android:orientation="horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:gravity="center"
+	android:weightSum="2"
+	android:layout_marginBottom="20dp"
+	>
+	<Button android:text="@string/main_button_practice" android:id="@+id/mainFreePlayBtn"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:layout_marginRight="20dp"
+		style="@style/StyleMainText"
+		/>
+	<Button android:text="@string/main_button_challenge" android:id="@+id/mainChallengeBtn"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:layout_marginLeft="20dp"
+		style="@style/StyleMainText"
+		/>
+</LinearLayout>
+<LinearLayout 
+	android:orientation="horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:gravity="center"
+	android:weightSum="1"
+	android:layout_marginBottom="20dp"
+	>
+	<Button android:text="@string/main_button_listflags" android:id="@+id/mainListBtn"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:layout_marginRight="5dp"
+		style="@style/StyleMainText"
+		/>
+	<Button android:text="@string/main_button_settings" android:id="@+id/mainSettingsBtn"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:layout_marginLeft="5dp"
+		style="@style/StyleMainText"
+		/>
+</LinearLayout>
+	<Button android:text="@string/main_button_moregames" android:id="@+id/mainMoreBtn"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_marginBottom="50dp"
+		style="@style/StyleMainText"
+		android:paddingLeft="15dp"
+		android:paddingRight="15dp"
+		/>
+</LinearLayout>
+ -->

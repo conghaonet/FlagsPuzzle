@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:weightSum="2"
+	>
+	<TextView
+		android:text="TextViewA"
+		android:id="@+id/freeplaySelectedContNameText"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		android:width="400dp"
+		android:paddingLeft="5dp"
+		android:textColor="#FFFFFF"
+		/>
+	<TextView
+		android:text="TextViewB"
+		android:id="@+id/freeplaySelectedContAmountText"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		android:width="400dp"
+		android:textColor="#FFFFFF"
+		/>
+</LinearLayout>

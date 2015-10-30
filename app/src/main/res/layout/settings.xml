@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+	android:weightSum="6"
+	android:background="@drawable/res_bg_settings"
+	>
+	<LinearLayout 
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="3dp"
+		android:layout_marginRight="3dp"
+		android:layout_marginBottom="2dp"
+		android:layout_weight="2"
+		>
+		<TextView
+			android:text="@string/settings_label_feedback"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:background="#16373E"
+			android:paddingLeft="5dp"
+			android:textSize="18sp"
+			/>
+		<CheckBox android:id="@+id/settingsSoundCheckBox"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="@string/settings_checkbox_sound" android:textSize="18sp" />
+		<CheckBox android:id="@+id/settingsVibrateCheckBox"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="@string/settings_checkbox_vibrate" android:textSize="18sp" />
+	</LinearLayout>
+	<LinearLayout 
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="3dp"
+		android:layout_marginRight="3dp"
+		android:layout_marginBottom="2dp"
+		android:layout_weight="3"
+		>
+		<TextView
+			android:id="@+id/settingsLangText"
+			android:text="@string/settings_label_language_countryname"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:background="#0F5056"
+			android:paddingLeft="5dp"
+			android:textSize="18sp"
+			/>
+		<CheckBox android:id="@+id/settingsLangEngCheckBox"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/settings_checkbox_language_english"
+			android:textSize="18sp" />
+		<ImageView
+			android:layout_width="fill_parent"
+			android:layout_height="1dp"
+			android:background="#FFFFFF"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			/>
+		<CheckBox android:id="@+id/settingsLangYoursCheckBox"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/settings_checkbox_language_yours"
+			android:textSize="18sp" />
+		<Spinner
+			android:id="@+id/settingsSpinner"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			/>
+	</LinearLayout>
+	<LinearLayout 
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="3dp"
+		android:layout_marginRight="3dp"
+		android:weightSum="2"
+		android:layout_weight="1"
+		>
+
+	<Button
+		android:id="@+id/settingsSaveBtn"
+		android:text="@string/settings_button_save"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		/>
+	<Button
+		android:id="@+id/settingsBackBtn"
+		android:text="@string/settings_button_back"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:textSize="18sp"
+		/>
+	</LinearLayout>
+</LinearLayout>

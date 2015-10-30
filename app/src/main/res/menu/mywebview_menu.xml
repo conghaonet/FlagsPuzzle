@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/mywebviewMenuCloseItem"
+		android:title="@string/mywebview_menu_close"
+		android:icon="@drawable/res_menu_close"
+		/>
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="myRatingBarSmall">
+		<item name="android:indeterminateOnly">false</item>
+		<item name="android:progressDrawable">@drawable/res_star_small</item>
+		<item name="android:indeterminateDrawable">@drawable/res_star_small</item>
+		<item name="android:minHeight">29dip</item>
+		<item name="android:maxHeight">29dip</item>
+		<item name="android:thumb">@null</item>
+		<item name="android:isIndicator">true</item>
+
+	</style>
+	<style name="myRatingBarBig">
+		<item name="android:indeterminateOnly">false</item>
+		<item name="android:progressDrawable">@drawable/res_star_big</item>
+		<item name="android:indeterminateDrawable">@drawable/res_star_big</item>
+		<item name="android:minHeight">57dip</item>
+		<item name="android:maxHeight">57dip</item>
+		<item name="android:thumb">@null</item>
+		<item name="android:isIndicator">true</item>
+	</style>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/res_bg_settings">
+	<Button
+		android:id="@+id/listContinentsAllBtn"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/select_continents_all_btn"
+		android:textSize="18sp"
+	/>
+	<ListView
+		android:id="@+id/listContinentsList"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:divider="#FFFFFF"
+		android:dividerHeight="2dp"
+		android:cacheColorHint="#00000000"
+		/>
+</LinearLayout>

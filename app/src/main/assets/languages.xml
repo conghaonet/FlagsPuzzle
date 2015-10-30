@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<language id="2" code="afrikaans" iso="afr" local="AFRIKAANS" />
+	<language id="3" code="albanian" iso="sqi" local="SHQIPTARE" />
+	<language id="5" code="arabic" iso="ara" local="اللغة العربية" />
+	<language id="9" code="belarusian" iso="bel" local="БЕЛАРУСКІ" />
+	<language id="12" code="bulgarian" iso="bul" local="БЪЛГАРСКИ" />
+	<language id="14" code="catalan" iso="cat" local="CATALÀ" />
+	<language id="17" code="chinese_simplified" iso="zho" local="中文简体" />
+	<language id="18" code="chinese_traditional" iso="zho" local="中文繁体" />
+	<language id="19" code="croatian" iso="hrv" local="HRVATSKI" />
+	<language id="20" code="czech" iso="ces" local="ČESKÉ" />
+	<language id="21" code="danish" iso="dan" local="DANSK" />
+	<language id="23" code="dutch" iso="nld" local="NEDERLANDSE" />
+	<language id="26" code="estonian" iso="est" local="EESTI" />
+	<language id="27" code="filipino" iso="fil" local="Filipino sa" />
+	<language id="28" code="finnish" iso="fin" local="SUOMEN" />
+	<language id="29" code="french" iso="fra" local="FRANÇAIS" />
+	<language id="30" code="galician" iso="glg" local="GALEGO" />
+	<language id="32" code="german" iso="deu" local="DEUTSCH" />
+	<language id="33" code="greek" iso="ell" local="ΕΛΛΗΝΙΚΗ" />
+	<language id="36" code="hebrew" iso="heb" local="עבריים" />
+	<language id="38" code="hungarian" iso="hun" local="MAGYAR" />
+	<language id="39" code="icelandic" iso="isl" local="ÍSLENSK" />
+	<language id="40" code="indonesian" iso="ind" local="INDONESIA" />
+	<language id="42" code="irish" iso="gle" local="GAEILGE" />
+	<language id="43" code="italian" iso="ita" local="ITALIANO" />
+	<language id="44" code="japanese" iso="jpn" local="日本" />
+	<language id="48" code="korean" iso="kor" local="한국" />
+	<language id="52" code="latvian" iso="lav" local="LATVIJAS" />
+	<language id="53" code="lithuanian" iso="lit" local="LIETUVOS" />
+	<language id="54" code="macedonian" iso="mkd" local="МАКЕДОНСКИ" />
+	<language id="55" code="malay" iso="msa" local="MELAYU" />
+	<language id="57" code="maltese" iso="mlt" local="MALTI" />
+	<language id="61" code="norwegian" iso="nob" local="NORSK" />
+	<language id="64" code="persian" iso="fas" local="فارسی" />
+	<language id="65" code="polish" iso="pol" local="POLSKI" />
+	<language id="66" code="portuguese" iso="por" local="PORTUGUÊS" />
+	<language id="68" code="romanian" iso="ron" local="ROMANIAN" />
+	<language id="69" code="russian" iso="rus" local="РОССИЯ" />
+	<language id="71" code="serbian" iso="srp" local="СРПСКА" />
+	<language id="74" code="slovak" iso="slk" local="SLOVENSKÁ" />
+	<language id="75" code="slovenian" iso="slv" local="SLOVENSKI" />
+	<language id="76" code="spanish" iso="spa" local="ESPAÑOL" />
+	<language id="77" code="swahili" iso="swa" local="SWAHILI" />
+	<language id="78" code="swedish" iso="swe" local="SVENSKA" />
+	<language id="81" code="tagalog" iso="tgl" local="TAGALOG" />
+	<language id="83" code="thai" iso="tha" local="การบินไทย" />
+	<language id="85" code="turkish" iso="tur" local="TÜRK" />
+	<language id="86" code="ukranian" iso="ukr" local="УКРАЇНСЬКИЙ" />
+	<language id="90" code="vietnamese" iso="vie" local="VIỆT" />
+	<language id="91" code="welsh" iso="cym" local="CYMRAEG" />
+	<language id="92" code="yiddish" iso="yid" local="ייִדיש" />
+</languages>

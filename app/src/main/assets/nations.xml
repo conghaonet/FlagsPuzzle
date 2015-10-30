@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nations>
+	<nation id="136" a2="mv" name="Maldives" continentCode="as" />
+	<nation id="129" a2="lt" name="Lithuania" continentCode="eu" />
+	<nation id="145" a2="fm" name="Micronesia" continentCode="oc" />
+	<nation id="120" a2="kw" name="Kuwait" continentCode="as" />
+	<nation id="77" a2="gf" name="French Guiana" continentCode="sa" />
+	<nation id="102" a2="is" name="Iceland" continentCode="eu" />
+	<nation id="84" a2="gh" name="Ghana" continentCode="af" />
+	<nation id="200" a2="sg" name="Singapore" continentCode="as" />
+	<nation id="192" a2="ws" name="Samoa" continentCode="oc" />
+	<nation id="163" a2="nu" name="Niue" continentCode="oc" />
+	<nation id="114" a2="jo" name="Jordan" continentCode="as" />
+	<nation id="221" a2="tl" name="Timor-leste" continentCode="as" />
+	<nation id="209" a2="lk" name="Sri Lanka" continentCode="as" />
+	<nation id="234" a2="gb" name="United Kingdom" continentCode="eu" />
+	<nation id="199" a2="sl" name="Sierra Leone" continentCode="af" />
+	<nation id="95" a2="gy" name="Guyana" continentCode="sa" />
+	<nation id="32" a2="br" name="Brazil" continentCode="sa" />
+	<nation id="55" a2="ci" name="Cote D'ivoire" continentCode="af" />
+	<nation id="85" a2="gi" name="Gibraltar" continentCode="eu" />
+	<nation id="34" a2="bn" name="Brunei Darussalam" continentCode="as" />
+	<nation id="195" a2="sa" name="Saudi Arabia" continentCode="as" />
+	<nation id="182" a2="ro" name="Romania" continentCode="eu" />
+	<nation id="19" a2="bd" name="Bangladesh" continentCode="as" />
+	<nation id="228" a2="tm" name="Turkmenistan" continentCode="as" />
+	<nation id="26" a2="bt" name="Bhutan" continentCode="as" />
+	<nation id="69" a2="er" name="Eritrea" continentCode="af" />
+	<nation id="166" a2="no" name="Norway" continentCode="eu" />
+	<nation id="82" a2="ge" name="Georgia" continentCode="as" />
+	<nation id="121" a2="kg" name="Kyrgyzstan" continentCode="as" />
+	<nation id="60" a2="cz" name="Czech Republic" continentCode="eu" />
+	<nation id="45" a2="cl" name="Chile" continentCode="sa" />
+	<nation id="222" a2="tg" name="Togo" continentCode="af" />
+	<nation id="49" a2="co" name="Colombia" continentCode="sa" />
+	<nation id="76" a2="fr" name="France" continentCode="eu" />
+	<nation id="88" a2="gd" name="Grenada" continentCode="na" />
+	<nation id="75" a2="fi" name="Finland" continentCode="eu" />
+	<nation id="162" a2="ng" name="Nigeria" continentCode="af" />
+	<nation id="177" a2="pl" name="Poland" continentCode="eu" />
+	<nation id="116" a2="ke" name="Kenya" continentCode="af" />
+	<nation id="38" a2="kh" name="Cambodia" continentCode="as" />
+	<nation id="101" a2="hu" name="Hungary" continentCode="eu" />
+	<nation id="216" a2="sy" name="Syrian Arab Republic" continentCode="as" />
+	<nation id="132" a2="mk" name="Macedonia" continentCode="eu" />
+	<nation id="229" a2="tc" name="Turks and Caicos Islands" continentCode="na" />
+	<nation id="51" a2="cg" name="Republic of the Congo" continentCode="af" />
+	<nation id="247" a2="zm" name="Zambia" continentCode="af" />
+	<nation id="215" a2="ch" name="Switzerland" continentCode="eu" />
+	<nation id="167" a2="om" name="Oman" continentCode="as" />
+	<nation id="175" a2="ph" name="Philippines" continentCode="as" />
+	<nation id="3" a2="al" name="Albania" continentCode="eu" />
+	<nation id="196" a2="sn" name="Senegal" continentCode="af" />
+	<nation id="81" a2="gm" name="Gambia" continentCode="af" />
+	<nation id="208" a2="es" name="Spain" continentCode="eu" />
+	<nation id="27" a2="bo" name="Bolivia" continentCode="sa" />
+	<nation id="22" a2="be" name="Belgium" continentCode="eu" />
+	<nation id="86" a2="gr" name="Greece" continentCode="eu" />
+	<nation id="230" a2="tv" name="Tuvalu" continentCode="oc" />
+	<nation id="93" a2="gn" name="Guinea" continentCode="af" />
+	<nation id="233" a2="ae" name="United Arab Emirates" continentCode="as" />
+	<nation id="74" a2="fj" name="Fiji" continentCode="oc" />
+	<nation id="159" a2="nz" name="New Zealand" continentCode="oc" />
+	<nation id="72" a2="fk" name="Falkland Islands" continentCode="sa" />
+	<nation id="232" a2="ua" name="Ukraine" continentCode="eu" />
+	<nation id="73" a2="fo" name="Faroe Islands" continentCode="eu" />
+	<nation id="165" a2="mp" name="Northern Mariana Islands" continentCode="oc" />
+	<nation id="71" a2="et" name="Ethiopia" continentCode="af" />
+	<nation id="52" a2="cd" name="Democratic Republic of the Congo" continentCode="af" />
+	<nation id="160" a2="ni" name="Nicaragua" continentCode="na" />
+	<nation id="173" a2="py" name="Paraguay" continentCode="sa" />
+	<nation id="139" a2="mh" name="Marshall Islands" continentCode="oc" />
+	<nation id="29" a2="ba" name="Bosnia and Herzegovina" continentCode="eu" />
+	<nation id="156" a2="np" name="Nepal" continentCode="as" />
+	<nation id="130" a2="lu" name="Luxembourg" continentCode="eu" />
+	<nation id="154" a2="na" name="Namibia" continentCode="af" />
+	<nation id="103" a2="in" name="India" continentCode="as" />
+	<nation id="169" a2="pw" name="Palau" continentCode="oc" />
+	<nation id="78" a2="pf" name="French Polynesia" continentCode="oc" />
+	<nation id="53" a2="ck" name="Cook Islands" continentCode="oc" />
+	<nation id="50" a2="km" name="Comoros" continentCode="af" />
+	<nation id="40" a2="ca" name="Canada" continentCode="na" />
+	<nation id="66" a2="eg" name="Egypt" continentCode="af" />
+	<nation id="220" a2="th" name="Thailand" continentCode="as" />
+	<nation id="202" a2="sk" name="Slovakia" continentCode="eu" />
+	<nation id="10" a2="ag" name="Antigua and Barbuda" continentCode="na" />
+	<nation id="190" a2="pm" name="Saint Pierre and Miquelon" continentCode="na" />
+	<nation id="237" a2="uy" name="Uruguay" continentCode="sa" />
+	<nation id="164" a2="nf" name="Norfolk Island" continentCode="oc" />
+	<nation id="57" a2="cu" name="Cuba" continentCode="na" />
+	<nation id="142" a2="mu" name="Mauritius" continentCode="af" />
+	<nation id="205" a2="so" name="Somalia" continentCode="af" />
+	<nation id="174" a2="pe" name="Peru" continentCode="sa" />
+	<nation id="144" a2="mx" name="Mexico" continentCode="na" />
+	<nation id="30" a2="bw" name="Botswana" continentCode="af" />
+	<nation id="123" a2="lv" name="Latvia" continentCode="eu" />
+	<nation id="227" a2="tr" name="Turkey" continentCode="as" />
+	<nation id="80" a2="ga" name="Gabon" continentCode="af" />
+	<nation id="65" a2="ec" name="Ecuador" continentCode="sa" />
+	<nation id="152" a2="mz" name="Mozambique" continentCode="af" />
+	<nation id="239" a2="vu" name="Vanuatu" continentCode="oc" />
+	<nation id="36" a2="bf" name="Burkina Faso" continentCode="af" />
+	<nation id="108" a2="im" name="Isle of Man" continentCode="eu" />
+	<nation id="203" a2="si" name="Slovenia" continentCode="eu" />
+	<nation id="23" a2="bz" name="Belize" continentCode="na" />
+	<nation id="44" a2="td" name="Chad" continentCode="af" />
+	<nation id="47" a2="cx" name="Christmas Island" continentCode="oc" />
+	<nation id="138" a2="mt" name="Malta" continentCode="eu" />
+	<nation id="193" a2="sm" name="San Marino" continentCode="eu" />
+	<nation id="2" a2="ax" name="Aland Islands" continentCode="eu" />
+	<nation id="179" a2="pr" name="Puerto Rico" continentCode="na" />
+	<nation id="58" a2="cw" name="Curacao" continentCode="na" />
+	<nation id="48" a2="cc" name="Cocos (Keeling) Islands" continentCode="oc" />
+	<nation id="12" a2="am" name="Armenia" continentCode="as" />
+	<nation id="42" a2="ky" name="Cayman Islands" continentCode="na" />
+	<nation id="46" a2="cn" name="China" continentCode="as" />
+	<nation id="201" a2="sx" name="Sint Maarten" continentCode="na" />
+	<nation id="110" a2="it" name="Italy" continentCode="eu" />
+	<nation id="184" a2="rw" name="Rwanda" continentCode="af" />
+	<nation id="63" a2="dm" name="Dominica" continentCode="na" />
+	<nation id="178" a2="pt" name="Portugal" continentCode="eu" />
+	<nation id="217" a2="tw" name="Taiwan" continentCode="as" />
+	<nation id="20" a2="bb" name="Barbados" continentCode="na" />
+	<nation id="111" a2="jm" name="Jamaica" continentCode="na" />
+	<nation id="87" a2="gl" name="Greenland" continentCode="na" />
+	<nation id="171" a2="pa" name="Panama" continentCode="na" />
+	<nation id="99" a2="hn" name="Honduras" continentCode="na" />
+	<nation id="62" a2="dj" name="Djibouti" continentCode="af" />
+	<nation id="7" a2="ao" name="Angola" continentCode="af" />
+	<nation id="151" a2="ma" name="Morocco" continentCode="af" />
+	<nation id="59" a2="cy" name="Cyprus" continentCode="as" />
+	<nation id="127" a2="ly" name="Libya" continentCode="af" />
+	<nation id="35" a2="bg" name="Bulgaria" continentCode="eu" />
+	<nation id="146" a2="md" name="Moldova" continentCode="eu" />
+	<nation id="43" a2="cf" name="Central African" continentCode="af" />
+	<nation id="15" a2="at" name="Austria" continentCode="eu" />
+	<nation id="6" a2="ad" name="Andorra" continentCode="eu" />
+	<nation id="105" a2="ir" name="Iran" continentCode="as" />
+	<nation id="243" a2="vi" name="Virgin Islands (U.S.)" continentCode="na" />
+	<nation id="90" a2="gu" name="Guam" continentCode="oc" />
+	<nation id="61" a2="dk" name="Denmark" continentCode="eu" />
+	<nation id="187" a2="kn" name="Saint Kitts and Nevis" continentCode="na" />
+	<nation id="56" a2="hr" name="Croatia" continentCode="eu" />
+	<nation id="16" a2="az" name="Azerbaijan" continentCode="as" />
+	<nation id="248" a2="zw" name="Zimbabwe" continentCode="af" />
+	<nation id="135" a2="my" name="Malaysia" continentCode="as" />
+	<nation id="5" a2="as" name="American Samoa" continentCode="oc" />
+	<nation id="223" a2="tk" name="Tokelau" continentCode="oc" />
+	<nation id="137" a2="ml" name="Mali" continentCode="af" />
+	<nation id="153" a2="mm" name="Myanmar" continentCode="as" />
+	<nation id="41" a2="cv" name="Cape Verde" continentCode="af" />
+	<nation id="11" a2="ar" name="Argentina" continentCode="sa" />
+	<nation id="148" a2="mn" name="Mongolia" continentCode="as" />
+	<nation id="100" a2="hk" name="Hong Kong" continentCode="as" />
+	<nation id="70" a2="ee" name="Estonia" continentCode="eu" />
+	<nation id="185" a2="bl" name="Saint Barthelemy" continentCode="na" />
+	<nation id="246" a2="ye" name="Yemen" continentCode="as" />
+	<nation id="91" a2="gt" name="Guatemala" continentCode="na" />
+	<nation id="8" a2="ai" name="Anguilla" continentCode="na" />
+	<nation id="140" a2="mq" name="Martinique" continentCode="na" />
+	<nation id="150" a2="ms" name="Montserrat" continentCode="na" />
+	<nation id="133" a2="mg" name="Madagascar" continentCode="af" />
+	<nation id="242" a2="vg" name="Virgin Islands (British)" continentCode="na" />
+	<nation id="149" a2="me" name="Montenegro" continentCode="eu" />
+	<nation id="161" a2="ne" name="Niger" continentCode="af" />
+	<nation id="241" a2="vn" name="Viet Nam" continentCode="as" />
+	<nation id="168" a2="pk" name="Pakistan" continentCode="as" />
+	<nation id="198" a2="sc" name="Seychelles" continentCode="af" />
+	<nation id="94" a2="gw" name="Guinea-Bissau" continentCode="af" />
+	<nation id="104" a2="id" name="Indonesia" continentCode="as" />
+	<nation id="188" a2="lc" name="Saint Lucia" continentCode="na" />
+	<nation id="122" a2="la" name="Laos" continentCode="as" />
+	<nation id="240" a2="ve" name="Venezuela" continentCode="sa" />
+	<nation id="147" a2="mc" name="Monaco" continentCode="eu" />
+	<nation id="225" a2="tt" name="Trinidad and Tobago" continentCode="na" />
+	<nation id="14" a2="au" name="Australia" continentCode="oc" />
+	<nation id="210" a2="sd" name="Sudan" continentCode="af" />
+	<nation id="218" a2="tj" name="Tajikistan" continentCode="as" />
+	<nation id="134" a2="mw" name="Malawi" continentCode="af" />
+	<nation id="219" a2="tz" name="Tanzania" continentCode="af" />
+	<nation id="141" a2="mr" name="Mauritania" continentCode="af" />
+	<nation id="170" a2="ps" name="Palestine" continentCode="as" />
+	<nation id="68" a2="gq" name="Equatorial Guinea" continentCode="af" />
+	<nation id="4" a2="dz" name="Algeria" continentCode="af" />
+	<nation id="112" a2="jp" name="Japan" continentCode="as" />
+	<nation id="211" a2="sr" name="Suriname" continentCode="sa" />
+	<nation id="231" a2="ug" name="Uganda" continentCode="af" />
+	<nation id="37" a2="bi" name="Burundi" continentCode="af" />
+	<nation id="118" a2="kp" name="North Korea" continentCode="as" />
+	<nation id="172" a2="pg" name="Papua New Guinea" continentCode="oc" />
+	<nation id="126" a2="lr" name="Liberia" continentCode="af" />
+	<nation id="18" a2="bh" name="Bahrain" continentCode="as" />
+	<nation id="64" a2="do" name="Dominican Republic" continentCode="na" />
+	<nation id="96" a2="ht" name="Haiti" continentCode="na" />
+	<nation id="176" a2="pn" name="Pitcairn" continentCode="oc" />
+	<nation id="17" a2="bs" name="Bahamas" continentCode="na" />
+	<nation id="157" a2="nl" name="Netherlands" continentCode="eu" />
+	<nation id="39" a2="cm" name="Cameroon" continentCode="af" />
+	<nation id="98" a2="va" name="Vatican City State" continentCode="eu" />
+	<nation id="226" a2="tn" name="Tunisia" continentCode="af" />
+	<nation id="106" a2="iq" name="Iraq" continentCode="as" />
+	<nation id="25" a2="bm" name="Bermuda" continentCode="na" />
+	<nation id="214" a2="se" name="Sweden" continentCode="eu" />
+	<nation id="124" a2="lb" name="Lebanon" continentCode="as" />
+	<nation id="13" a2="aw" name="Aruba" continentCode="na" />
+	<nation id="213" a2="sz" name="Swaziland" continentCode="af" />
+	<nation id="224" a2="to" name="Tonga" continentCode="oc" />
+	<nation id="113" a2="je" name="Jersey" continentCode="eu" />
+	<nation id="206" a2="za" name="South Africa" continentCode="af" />
+	<nation id="235" a2="us" name="United States" continentCode="na" />
+	<nation id="183" a2="ru" name="Russian Federation" continentCode="eu" />
+	<nation id="180" a2="qa" name="Qatar" continentCode="as" />
+	<nation id="115" a2="kz" name="Kazakhstan" continentCode="as" />
+	<nation id="21" a2="by" name="Belarus" continentCode="eu" />
+	<nation id="204" a2="sb" name="Solomon Islands" continentCode="oc" />
+	<nation id="83" a2="de" name="Germany" continentCode="eu" />
+	<nation id="119" a2="kr" name="South Korea" continentCode="as" />
+	<nation id="109" a2="il" name="Israel" continentCode="as" />
+	<nation id="92" a2="gg" name="Guernsey" continentCode="eu" />
+	<nation id="194" a2="st" name="Sao Tome and Principe" continentCode="af" />
+	<nation id="131" a2="mo" name="Macao" continentCode="as" />
+	<nation id="128" a2="li" name="Liechtenstein" continentCode="eu" />
+	<nation id="54" a2="cr" name="Costa Rica" continentCode="na" />
+	<nation id="107" a2="ie" name="Ireland" continentCode="eu" />
+	<nation id="67" a2="sv" name="El Salvador" continentCode="na" />
+	<nation id="24" a2="bj" name="Benin" continentCode="af" />
+	<nation id="238" a2="uz" name="Uzbekistan" continentCode="as" />
+	<nation id="1" a2="af" name="Afghanistan" continentCode="as" />
+	<nation id="117" a2="ki" name="Kiribati" continentCode="oc" />
+	<nation id="125" a2="ls" name="Lesotho" continentCode="af" />
+	<nation id="197" a2="rs" name="Serbia" continentCode="eu" />
+	<nation id="155" a2="nr" name="Nauru" continentCode="oc" />
+</nations>

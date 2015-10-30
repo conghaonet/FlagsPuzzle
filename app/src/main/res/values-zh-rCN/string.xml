@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Flags Quiz</string>
+	<string name="app_name">国旗猜谜</string>
+
+	<string name="freeplay_label_conts_title">已选择的大洲：</string>
+	<string name="freeplay_label_total_nations">共 #!REPLACE_TAG!# 个国家和地区</string>
+	<string name="freeplay_button_selectcont">选择大洲</string>
+	<string name="freeplay_label_ordertype">出题顺序：</string>
+	<string name="freeplay_radio_random">随即</string>
+	<string name="freeplay_radio_a2z">国家名称(A 到 Z)</string>
+	<string name="freeplay_button_f2n">国旗 到 名称</string>
+	<string name="freeplay_button_n2f">名称 到 国旗</string>
+	<string name="freeplay_selected_conts_amount">个国家和地区</string>
+	<string name="freeplay_selected_conts_unselected">未选</string>
+
+	<string name="freeplay_quiz_finished_dialog_msg_score">\n正确率: #!REPLACE_TAG!#%</string>
+	<string name="freeplay_quiz_finished_dialog_msg_60">成绩不太好，还要继续努力啊。</string>
+	<string name="freeplay_quiz_finished_dialog_msg_70">成绩不错，继续加油！</string>
+	<string name="freeplay_quiz_finished_dialog_msg_80">成绩很好，开始挑战吧。</string>
+	<string name="freeplay_quiz_finished_dialog_msg_90">成绩太好啦，开始挑战吧。</string>
+	<string name="freeplay_quiz_finished_dialog_btn_retry">重试</string>
+	<string name="freeplay_quiz_finished_dialog_btn_challenge">开始挑战</string>
+	<string name="freeplay_quiz_finished_dialog_btn_back">返回</string>
+
+
+	<string name="settings_label_feedback">答题反馈</string>
+	<string name="settings_checkbox_sound">开启声音提示</string>
+	<string name="settings_checkbox_vibrate">开启震动提示</string>
+	<string name="settings_label_playmode">游戏方式</string>
+	<string name="settings_radio_flag2name">国旗 到 名称</string>
+	<string name="settings_radio_name2flag">名称 到 国旗</string>
+	<string name="settings_spinner_prompt">选择你的语言</string>
+	<string name="settings_button_save">保存</string>
+	<string name="settings_button_back">取消</string>
+	<string name="settings_label_language_countryname">国家名称的显示语言</string>
+	<string name="settings_checkbox_language_english">总是显示英语</string>
+	<string name="settings_checkbox_language_yours">选择你的语言:</string>
+	<string name="settings_notice_language_yours">对于一些小语种的语言, 其翻译结果可能不准确.</string>
+
+	<string name="select_cont_amout">个国家和地区</string>
+	<string name="select_cont_amout_zero">无主权国家</string>
+	<string name="select_cont_notice_msg">请至少选择一个大洲</string>
+
+	<string name="challenge_tabhost_notice">您需要收集到至少#!REPLACE_TAG!#颗星, 才可以挑战本关。 继续努力啊！</string>
+	<string name="challenge_tabhost_tab_f2n_title">猜 国旗</string>
+	<string name="challenge_tabhost_tab_n2f_title">猜 国名</string>
+	<string name="challenge_tabhost_tab_con_title">猜 大洲</string>
+
+	<string name="challenge_level_index">Level:</string>
+	<string name="challenge_score">Score:</string>
+
+	<string name="popup_finished_level_index">LEVEL:</string>
+	<string name="popup_finished_highscore">HIGH SCORE:</string>
+	<string name="popup_finished_amazing">AMAZING!</string>
+	<string name="popup_finished_score_current">Score:</string>
+	<string name="popup_finished_newhighscore">New High Score!</string>
+	<string name="popup_finished_limit_notice">您需要收集到至少#!REPLACE_TAG!#颗星, 才可以挑战下一关。 继续努力啊！</string>
+	<string name="popup_finished_btn_retry">重试</string>
+	<string name="popup_finished_btn_nextlevel">下一关</string>
+	<string name="popup_finished_btn_back">返回</string>
+
+	<string name="mywebview_menu_close">关闭</string>
+
+	<string name="select_continents_all_btn">所有国家</string>
+
+	<string name="dialog_btn_yes">是</string>
+	<string name="dialog_btn_no">否</string>
+	<string name="dialog_btn_retry">重试</string>
+	<string name="dialog_btn_rating">评分</string>
+	<string name="quit_game_dialog_msg">\n确认结束当前游戏?\n</string>
+	<string name="quit_game_dialog_title">结束游戏</string>
+	<string name="quit_app_dialog_msg">\n确认退出游戏?\n</string>
+	<string name="quit_app_dialog_title">退出游戏</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="org.hh.flag"
+	android:installLocation="auto"
+    >
+
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.SET_WALLPAPER"/>
+	<uses-permission android:name="android.permission.VIBRATE"/>
+		
+	<application android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.hao.android.flag.MyApp" android:allowBackup="true">
+	    <meta-data android:name="com.google.android.gms.version"
+               android:value="@integer/google_play_services_version" />
+	    <service android:name="com.hao.android.flag.services.MyAdsService" />
+		<activity android:name="com.hao.android.flag.ActivityMain"
+				android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityFreePlay"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivitySelectContinents"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityListNations"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityFreeQuizF2N"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityFreeQuizN2F"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivitySettings"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityChallengeTabhost"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityChallengeF2N"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityChallengeN2F"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityChallengeContinent"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityListContinents"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+		<activity android:name="com.hao.android.flag.ActivityMyWebview"			android:label="@string/app_name"
+				android:screenOrientation="sensorPortrait"
+				android:theme="@android:style/Theme.NoTitleBar"
+				android:configChanges="keyboard|keyboardHidden|orientation">
+		</activity>
+        <activity 
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+	</application>
+</manifest>

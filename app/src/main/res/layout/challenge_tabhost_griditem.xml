@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:paddingTop="5dp"
+	android:background="@drawable/res_bg_challenge_tab_focused"
+	>
+	<ImageView
+		android:id="@+id/challengeTabhostGridItemLockImg"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true"
+		android:src="@drawable/res_bg_lock"
+	/>
+	<TextView
+		android:text="TextView"
+		android:id="@+id/challengeTabhostGridItemLevelText"
+		android:gravity="center"
+		android:layout_gravity="center"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#FFFFFF"
+		android:typeface="serif"
+		android:textSize="25sp"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		/>
+	<RatingBar android:id="@+id/challengeTabhostGridItemRatingBar"
+		style="@style/myRatingBarSmall"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:numStars="3"
+		android:layout_below="@id/challengeTabhostGridItemLevelText"
+		android:layout_marginTop="2dp"
+		android:layout_centerHorizontal="true"
+		/>
+</RelativeLayout>

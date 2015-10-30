@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/PREF_TITLE">
+    <PreferenceCategory android:title="@string/PREF_INVISIBLE_CATEGORY_KEY" android:key="@string/PREF_INVISIBLE_CATEGORY_KEY">
+        <EditTextPreference
+            android:key="@string/PREF_ADS_XML_LASTMODIFIED_KEY"
+            android:defaultValue="@null"
+            />
+            />
+        <EditTextPreference
+            android:key="@string/PREF_AD_UNIT_ID_KEY"
+            android:defaultValue="@string/ad_banner_id"
+            />
+	</PreferenceCategory>
+</PreferenceScreen>

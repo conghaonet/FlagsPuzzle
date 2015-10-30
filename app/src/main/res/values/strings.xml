@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Flags Quiz</string>
+	<string name="app_name">Flags Puzzle</string>
+	<string name="ad_banner_id">ca-app-pub-9889936371937089/7286122456</string>
+	<string name="ad_keywords">kid kids child children student study educate education jigsaw puzzle cartoon cartoons game games gaming</string>
+	<string name="freeplay_label_conts_title">Selected Continents：</string>
+	<string name="freeplay_label_total_nations">Amount： #!REPLACE_TAG!# Countries/Regions</string>
+	<string name="freeplay_button_selectcont">Select Continents</string>
+	<string name="freeplay_label_ordertype">Order：</string>
+	<string name="freeplay_radio_random">Random</string>
+	<string name="freeplay_radio_a2z">Name (A to Z)</string>
+	<string name="freeplay_button_f2n">Flag Mode</string>
+	<string name="freeplay_button_n2f">Name Mode</string>
+	<string name="freeplay_selected_conts_amount">Countries</string>
+	<string name="freeplay_selected_conts_unselected">Unselected</string>
+
+	<string name="freeplay_quiz_finished_dialog_msg_score">\nAccuracy rate: #!REPLACE_TAG!#%</string>
+	<string name="freeplay_quiz_finished_dialog_msg_60">Not bad, you should continue to work hard.</string>
+	<string name="freeplay_quiz_finished_dialog_msg_70">Good! Keep it on!</string>
+	<string name="freeplay_quiz_finished_dialog_msg_80">Very good! Move to CHALLENGE?</string>
+	<string name="freeplay_quiz_finished_dialog_msg_90">AMAZING! Your are so good! You should move to the CHALLENGE.</string>
+	<string name="freeplay_quiz_finished_dialog_btn_retry">Retry</string>
+	<string name="freeplay_quiz_finished_dialog_btn_challenge">Challenge</string>
+	<string name="freeplay_quiz_finished_dialog_btn_back">Back</string>
+
+
+	<string name="settings_label_feedback">Feedback</string>
+	<string name="settings_checkbox_sound">Sound Enabled</string>
+	<string name="settings_checkbox_vibrate">Vibrate Enabled</string>
+	<string name="settings_label_playmode">Play Mode</string>
+	<string name="settings_radio_flag2name">Flag Mode</string>
+	<string name="settings_radio_name2flag">Name Mode</string>
+	<string name="settings_spinner_prompt">Select your language</string>
+	<string name="settings_button_save">SAVE</string>
+	<string name="settings_button_back">CANCEL</string>
+	<string name="settings_label_language_countryname">Country name of the languages</string>
+	<string name="settings_checkbox_language_english">Always displayed in English</string>
+	<string name="settings_checkbox_language_yours">Select your language:</string>
+	<string name="settings_notice_language_yours">For some minority languages​​, the translations may not be accurate.</string>
+
+	<string name="select_cont_amout">Countries/Regions</string>
+	<string name="select_cont_amout_zero">Has no government</string>
+	<string name="select_cont_notice_msg">Please select at least one continent</string>
+
+	<string name="challenge_tabhost_notice">Need #!REPLACE_TAG!# stars to unlock this level.</string>
+	<string name="challenge_tabhost_tab_f2n_title">Flag Mode</string>
+	<string name="challenge_tabhost_tab_n2f_title">Name Mode</string>
+	<string name="challenge_tabhost_tab_con_title">Continent</string>
+
+	<string name="challenge_level_index">Level:</string>
+	<string name="challenge_score">Score:</string>
+
+	<string name="popup_finished_level_index">LEVEL:</string>
+	<string name="popup_finished_highscore">HIGH SCORE:</string>
+	<string name="popup_finished_amazing">AMAZING!</string>
+	<string name="popup_finished_score_current">Score:</string>
+	<string name="popup_finished_newhighscore">New High Score!</string>
+	<string name="popup_finished_limit_notice">Need #!REPLACE_TAG!# stars to unlock the next level.</string>
+	<string name="popup_finished_btn_retry">RETRY</string>
+	<string name="popup_finished_btn_nextlevel">NEXT</string>
+	<string name="popup_finished_btn_back">BACK</string>
+
+	<string name="mywebview_menu_close">Close</string>
+
+	<string name="select_continents_all_btn">All countries</string>
+
+	<string name="dialog_btn_yes">YES</string>
+	<string name="dialog_btn_no">NO</string>
+	<string name="dialog_btn_retry">RETRY</string>
+	<string name="dialog_btn_rating">RATING</string>
+	<string name="quit_game_dialog_msg">\nQUIT THE GAME?\n</string>
+	<string name="quit_game_dialog_title">Quit Game</string>
+	<string name="quit_app_dialog_msg">\nQUIT THE APPLICATION?\n</string>
+	<string name="quit_app_dialog_title">Quit Application</string>
+	<!-- new settings activity -->
+	<string name="PREF_TITLE">SETTINGS</string>
+	<!-- Invisible -->
+	<string name="PREF_INVISIBLE_CATEGORY_KEY">invisible_category</string>
+	<string name="PREF_ADS_XML_LASTMODIFIED_KEY">ads_xml_lastmodified</string>
+	<string name="PREF_AD_UNIT_ID_KEY">ad_unit_id</string>
+</resources>

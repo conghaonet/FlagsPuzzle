@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+
+	<ImageButton android:id="@+id/selectContImg"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="#00000000"
+		/>
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:weightSum="4"
+		>
+		<CheckBox android:id="@+id/selectContCb"
+			android:text="North America"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="17sp"
+			android:textColor="#FFFFFFFF"
+			android:layout_weight="3"
+			android:layout_gravity="left|center_vertical"
+			android:gravity="left|center_vertical"
+			/>
+		<TextView android:id="@+id/selectContAmountText"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="#FFFFFFFF"
+			android:text="@string/select_cont_amout"
+			android:layout_weight="1"
+			/>
+	</LinearLayout>
+</LinearLayout>

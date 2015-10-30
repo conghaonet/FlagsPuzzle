@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	<FrameLayout
+	    android:id="@+id/adLayout" 
+		android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+	    />
+	<WebView
+		android:id="@+id/mywebviewWebView"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_above="@id/adLayout"
+		android:layout_marginBottom="2dip"
+		android:layout_centerHorizontal="true"
+		/>
+	<ProgressBar
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/mywebviewProgressBar"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentRight="true"
+		android:layout_marginRight="5dp"
+		android:layout_marginTop="5dp"
+		style="@android:style/Widget.ProgressBar.Inverse"
+		/>
+</RelativeLayout>
